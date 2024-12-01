@@ -1,5 +1,3 @@
-from ast import parse
-import re
 def parse_input(input: str) -> tuple:
     list1 = []
     list2 = []
